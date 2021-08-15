@@ -1,2 +1,2 @@
-FROM gcr.io/distroless/base@sha256:7fa7445dfbebae4f4b7ab0e6ef99276e96075ae42584af6286ba080750d6dfe5
-MAINTAINER zw
+FROM k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.9
+MAINTAINER zwj
